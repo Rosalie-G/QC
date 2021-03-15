@@ -1,104 +1,25 @@
-Platelet count decreased	22
-Neutrophil count decreased	23
-Alanine aminotransferase increased	14
-Aspartate aminotransferase increased	14
-White blood cell count decreased	13
-Gamma-glutamyltransferase increased	9
-Blood bilirubin increased	3
-Bilirubin conjugated increased	3
-Blood creatinine increased	2
-Blood thyroid stimulating hormone increased	1
-Blood alkaline phosphatase increased	1
-Blood bilirubin unconjugated increased	1
-Blood pressure increased	1
-Lymphocyte count decreased	1
-Plateletcrit decreased	1
-Protein urine present	1
-Thyroxine free decreased	0
-Tri-iodothyronine decreased	0
-Tri-iodothyronine free decreased	0
-Vascular disorders	
-Hypertension	29
-Embolism	1
-Haematoma	1
-Skin and subcutaneous tissue disorders	
-Palmar-plantar erythrodysaesthesia syndrome	20
-Rash	4
-Drug eruption	2
-Dermatitis acneiform	0
-Dermatitis bullous	0
-Immune-mediated dermatitis	1
 Gastrointestinal disorders	
-Diarrhoea	4
-Haematochezia	4
-Abdominal pain	3
-Vomiting	3
-Lower gastrointestinal haemorrhage	2
-Mouth ulceration	2
-Abdominal distension	1
-Enteritis	1
-Flatulence	1
-Gingival bleeding	1
-Intestinal obstruction	1
-Large intestine perforation	1
-Nausea	1
-Rectal haemorrhage	1
-Rectal ulcer	1
-Stomatitis	1
+Intestinal obstruction	1 (0.4)
+Mouth ulceration	1 (0.4)
+Small intestinal perforation	1 (0.4)
 Renal and urinary disorders	
-Proteinuria	17
-Haematuria	1
-Renal impairment	1
-Metabolism and nutrition disorders	
-Decreased appetite	4
-Hypertriglyceridaemia	4
-Hyperlipidaemia	2
-Hyperglycaemia	1
-Hyperkalaemia	1
-Hypomagnesaemia	1
-Blood and lymphatic system disorders	
-Anaemia	10
-Myelosuppression	1
-Endocrine disorders	
-Hypothyroidism	1
-Thyroiditis	2
-Autoimmune thyroiditis	1
-Hyperthyroidism	1
-General disorders and administration site conditions	
-Asthenia	3
-Pyrexia	3
-Oedema peripheral	0
-Respiratory, thoracic and mediastinal disorders	
-Pneumonitis	2
-Epistaxis	2
-Bronchial haemorrhage	1
-Infections and infestations	
-Urinary tract infection	2
-Conjunctivitis	1
-Cystitis	1
-Gingivitis	1
-Pelvic inflammatory disease	1
-Pneumonia bacterial	1
-Staphylococcal infection	1
+Urogenital fistula	2 (0.9)
+Proteinuria	1 (0.4)
 Cardiac disorders	
-Bradycardia	1
-Cardiac failure	1
-Myocardial ischaemia	1
-Sinus tachycardia	1
+Sinus tachycardia	1 (0.4)
+General disorders and administration site conditions	
+Multiple organ dysfunction syndrome	1 (0.4)
 Hepatobiliary disorders	
-Hepatic function abnormal	1
-Immune-mediated hepatitis	1
-Jaundice	0
-Neoplasms benign, malignant and unspecified (incl cysts and polyps)	
-Tumour haemorrhage	2
-Tumour exudation	1
-Nervous system disorders	
-Cognitive disorder	1
-Headache	1
+Liver injury	1 (0.4)
+Infections and infestations	
+Peritonitis	1 (0.4)
+Investigations	
+White blood cell count decreased	1 (0.4)
 Reproductive system and breast disorders	
-Vaginal haemorrhage	2
-Female genital tract fistula	1
-Immune system disorders	
-Reactive capillary endothelial proliferation	1
-Musculoskeletal and connective tissue disorders	
-Bone pain	1
+Vaginal haemorrhage	1 (0.4)
+Respiratory, thoracic and mediastinal disorders	
+Pneumonitis	1 (0.4)
+Skin and subcutaneous tissue disorders	
+Rash	1 (0.4)
+Vascular disorders	
+Hypertension	1 (0.4)
